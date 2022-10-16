@@ -26,7 +26,6 @@
     },
     "homepage": "https://github.com/jekamix258/lab-1_node#readme",
     "devDependencies": {
-        "editorconfig": "^0.15.3",
         "eslint": "^8.25.0",
         "eslint-config-prettier": "^8.5.0",
         "eslint-config-standard": "^17.0.0",
