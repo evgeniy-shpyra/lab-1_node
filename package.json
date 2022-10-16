@@ -1,0 +1,22 @@
+{
+  "name": "lab-1_node",
+  "version": "1.0.0",
+  "description": "lab-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekamix258/lab-1_node.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "author": "Shpyra-Evgeniy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jekamix258/lab-1_node/issues"
+  },
+  "homepage": "https://github.com/jekamix258/lab-1_node#readme"
+}
