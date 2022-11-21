@@ -5,7 +5,7 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
-        "start": "node server.js",
+        "start": "node index.js",
         "lint": "eslint --ignore-path .gitignore .",
         "lint:fix": "npm run lint -- --fix",
         "format": "prettier --ignore-path .gitignore --check .",
