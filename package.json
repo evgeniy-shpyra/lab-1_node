@@ -18,6 +18,7 @@
     "author": "Shpyra-Evgeniy",
     "license": "ISC",
     "devDependencies": {
+        "@vercel/node": "^2.6.3",
         "eslint": "^8.25.0",
         "eslint-config-prettier": "^8.5.0",
         "eslint-config-standard": "^17.0.0",
